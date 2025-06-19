@@ -1,5 +1,7 @@
 {
-  "$schema": "https://ui.shadcn.com/schema.json",
+  "name": "Next.js App Router with Tailwind CSS and TypeScript",
+  "description": "A Next.js project using the App Router, TypeScript, and Tailwind CSS.",
+  "version": "1.0.0",
   "style": "default",
   "rsc": true,
   "tsx": true,
